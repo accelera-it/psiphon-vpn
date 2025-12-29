@@ -1,2 +1,1 @@
-# psiphon-vpn
-Psiphon VPN with Proxy
+# Psiphon VPN with Proxy
