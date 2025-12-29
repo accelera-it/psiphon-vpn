@@ -1,6 +1,5 @@
 # Psiphon VPN with Proxy
 
 ```
-copy C:\Users\User\AppData\Local
-extract Psiphon3
+C:\Users\User\AppData\Local\Psiphon3
 ```
